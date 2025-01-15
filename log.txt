@@ -195,3 +195,4 @@ entry 6: the mass committer strikes again at 17:58
 07b11cef — if you're reading the log file you've gone too far
 4eab313b — if you're reading the log file you've gone too far
 sha(525656e9) — this means nothing but it looks technical
+ccebbc19 — if you're reading the log file you've gone too far
