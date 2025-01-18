@@ -207,3 +207,4 @@ sha(6e8735d2) — this means nothing but it looks technical
 entry 2: the mass committer strikes again at 13:30
 dacada59 — if you're reading the log file you've gone too far
 entry 4: the mass committer strikes again at 14:53
+[17:08] 2cb9fff2 | this line exists solely to make the diff non-empty
