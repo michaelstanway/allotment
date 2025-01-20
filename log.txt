@@ -219,3 +219,4 @@ commit 3/7 for today. we ball
 sha(7242a70f) — this means nothing but it looks technical
 commit 5/7 for today. we ball
 sha(bcb332f3) — this means nothing but it looks technical
+5d7ef357 — if you're reading the log file you've gone too far
